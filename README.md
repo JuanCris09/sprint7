@@ -20,7 +20,8 @@ PowerShell
 
 `python -m venv vehicles_env`
 `.\vehicles_env\Scripts\Activate.ps1`
-3. Instalar Dependencias
+
+2. Instalar Dependencias
 Instala todas las librerías necesarias (Pandas, Streamlit, Plotly Express, etc.) utilizando el archivo requirements.txt.
 
 Bash
